@@ -1,0 +1,18 @@
+/*css eksternal */
+
+ h1{
+     background-color: aquamarine;color: azure;
+     text-decoration:overline blue;
+     text-transform: overline blue;
+
+ }
+ p{
+     font-size: 40px;
+     letter-spacing: normal;
+     text-indent: 20px;
+     word-spacing: 40px;
+     text-align-last: center;
+     font-family: 'Montserrat', sans-serif;
+     font-weight: 700;
+     font-style: italic;
+ }

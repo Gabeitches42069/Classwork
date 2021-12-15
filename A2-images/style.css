@@ -1,0 +1,25 @@
+.article-1 {
+ background-color: rgb(40, 69, 70);
+color: cyan;
+height: 300px;
+width: 300px;
+}
+.article-2 {
+    background-color: darkcyan;
+color: crimson;
+height: 300px;
+width: 300px;
+}
+.article-3 {
+color: darkblue;
+height: 300px;
+width: 300px;
+}
+.article {
+font-size: 20px;
+line-height: 15px;
+text-align: center ;
+}
+#x{
+    
+}

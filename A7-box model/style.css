@@ -1,0 +1,20 @@
+h1 {
+
+border: dashed red 2px;
+/* border-bottom: solid yellow 2px; */
+    
+border-radius: 10px;
+
+/* top,right,bottom,left */
+padding:20px;
+margin: 20px;
+width: 100px;
+
+
+
+
+
+
+
+
+}

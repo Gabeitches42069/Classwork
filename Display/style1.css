@@ -1,0 +1,151 @@
+/* classwork.html */
+.card {
+width: 300px;
+height: 600px;
+background-color: white;
+border-radius: 15px;
+box-shadow: 4px 4px 20px gainsboro
+}
+
+.price h2,p {
+    display: inline-block;
+}
+.price h2 {
+    margin-left: 20px;
+}
+.description {
+    margin-left: 20px;
+}
+.description p {
+    width: 250px;
+    border-bottom: 1px solid lightgray;
+}
+.description h2 {
+    color: #FFC847;
+}
+
+/* layer,speaker,network */
+.card img {
+width: 50px;
+height: 50px;
+margin-left: 20px;
+}
+
+/* check */
+
+.item img{
+width: 15px;
+height: 15px;
+}
+
+.card1 button {
+    margin-left: 20px;
+    width:250px; 
+    padding: 8px;
+    background-color: lightgray;
+    border-radius: 8px; 
+    border: none;
+}
+body {font-family: 'Montserrat', sans-serif;
+background-color: rgb 245 245 245; 
+}
+
+.description-2 h2{
+    color: blue;
+}
+.price-2 h2,p {
+    display: inline-block;
+}
+.price-2 h2 {
+    margin-left: 20px;
+}
+.description-2 {
+    margin-left: 20px;
+}
+.description-2 p {
+    width: 250px;
+    border-bottom: 1px solid lightgray;
+}
+.description-2 h2 {
+    color: #42B9F4;
+}
+
+/* layer,speaker,network */
+.card-2 img {
+width: 50px;
+height: 50px;
+margin-left: 20px;
+}
+
+/* check */
+
+.item-2 img{
+width: 15px;
+height: 15px;
+}
+
+button {
+    margin-left: 20px;
+    width: 250px; 
+    padding: 8px;
+    background-color: white;
+    border-radius: 8px; 
+    border: solid 2px;
+}
+body {font-family: 'Montserrat', sans-serif;
+background-color: rgb 245 245 245; 
+}
+.description-3 h2{
+    color: ;
+}
+.price-3 h2,p {
+    display: inline-block;
+}
+.price-3 h2 {
+    margin-left: 20px;
+}
+.description-3 {
+    margin-left: 20px;
+}
+.description-3 p {
+    width: 250px;
+    border-bottom: 1px solid lightgray;
+}
+.description-3 h2 {
+    color: #46d68c;
+}
+
+/* layer,speaker,network */
+.card-3 img {
+width: 50px;
+height: 50px;
+margin-left: 20px;
+}
+
+/* check */
+
+.item-3 img{
+width: 15px;
+height: 15px;
+}
+
+
+
+body {font-family: 'Montserrat', sans-serif;
+background-color: rgb 245 245 245; 
+}
+.card-3 button {
+    margin-left: 20px;
+    width: 250px;
+    padding: 8px;
+    background-color: #46d68c;
+    border-radius: 8px; 
+    border:none ;
+}
+.card{
+    display: inline-block;
+}
+.cards{
+    display: inline-block;
+    margin-left: 20px;
+}
