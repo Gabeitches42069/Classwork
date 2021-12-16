@@ -1,7 +1,21 @@
-body {
-   background-color: #51666f;
-   width: 15%;
+body {font-family: 'Roboto', sans-serif;}
+
+
+.paragraph {
+line-height: 50px;
 }
-.member-card {
-   background-color: white;
+.letter1 
+{letter-spacing: 20px;
+width: 1300px;
+}
+
+.text2 {
+    margin-left: 1200px;
+}
+
+.txt-orange {
+    color: orange;
+}
+.paragraph2 {
+    text-size-adjust: 10px;
 }
